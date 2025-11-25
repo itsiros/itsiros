@@ -4,8 +4,8 @@
 </p>
 
 
-# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-# I'm **Ioannis Tsiros, aspiring software enginner**
+# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>  I'm **Ioannis Tsiros**
+# **Aspiring software engineer**
 
 **42 Heilbronn Student**  
 **Actively looking for a Software Engineering Internship**  
@@ -87,12 +87,9 @@ tsironi93@github:~$ echo "Not afraid to :q!"
 
 ## 📊 GitHub Stats
 
-![Ioannis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsironi93&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsironi93&layout=compact&theme=tokyonight)
-<h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
-<br/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsironi93&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=tsironi93i&theme=tokyonight" alt="tsironi" />
+
 
 ---
 
